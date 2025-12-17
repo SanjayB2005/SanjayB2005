@@ -50,9 +50,7 @@ to building reliable backend systems that scale.
 ## 📊 Code Activity
 <div align="left">
 
-![](https://github-readme-stats.vercel.app/api?username=SanjayB2005&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayB2005&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff)
+![](https://github-readme-stats.vercel.app/api?username=SanjayB2005&show_icons=true&hide_border=true&bg_color=ffffff&text_color=000000)   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjayB2005&layout=compact&hide_border=true&bg_color=0d1117&text_color=ffffff)
 
 </div>
 

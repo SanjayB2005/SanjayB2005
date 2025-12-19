@@ -43,6 +43,21 @@ to building reliable backend systems that scale.
 ![GitHub](https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Next JS](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/three.js-000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Blockchain](https://img.shields.io/badge/blockchain-121D33.svg?style=for-the-badge)
+![Solidity](https://img.shields.io/badge/solidity-363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-003B57.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![MERN](https://img.shields.io/badge/mern%20stack-3C873A.svg?style=for-the-badge)
+
 
 
 
